@@ -1,0 +1,4 @@
+Paduan menjalankan aplikasi:
+1. Terlebih dahulu mengintsall python dan library yang diperlukan.
+2. Mengaktifkan Virtual Environment.
+3. Menentukan Source pendeteksian.
